@@ -1,10 +1,10 @@
-# 🧠 Algorithmic Thinking Lab
+# Algorithmic Thinking Lab
 
-> A structured, self-paced DSA & Competitive Programming journey — from foundations to interview mastery.
+> A structured, self-paced DSA and Competitive Programming journey — from foundations to interview mastery.
 
 ---
 
-## 📚 What Is This?
+## What Is This?
 
 This repository is a **comprehensive learning lab** for mastering Data Structures, Algorithms, and Problem-Solving techniques. It's organized progressively so you can build skills from the ground up and track your growth over time.
 
@@ -12,7 +12,7 @@ Whether you're preparing for **coding interviews**, **competitive programming co
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -28,7 +28,7 @@ Whether you're preparing for **coding interviews**, **competitive programming co
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repo:**
    ```bash
@@ -44,7 +44,7 @@ Whether you're preparing for **coding interviews**, **competitive programming co
 
 ---
 
-## 📝 How to Use Each Folder
+## How to Use Each Folder
 
 Each topic folder typically contains:
 - `README.md` — Concept explanation and key insights
@@ -63,7 +63,7 @@ Examples:
 
 ---
 
-## 🎯 Learning Roadmap
+## Learning Roadmap
 
 ```
 Phase 1: Foundations
@@ -90,7 +90,7 @@ Phase 7: SDE & Interview Prep
 
 ---
 
-## 🏆 Goals
+## Goals
 
 - [ ] Complete all **Blind 75** problems
 - [ ] Complete **NeetCode 150**
@@ -102,7 +102,7 @@ Phase 7: SDE & Interview Prep
 
 ---
 
-## 🛠️ Languages Used
+## Languages Used
 
 - **C++** — Primary (for speed in competitive programming)
 - **Python** — For quick prototyping and readability
@@ -112,16 +112,16 @@ Phase 7: SDE & Interview Prep
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-> *"The only way to learn algorithms is to practice them until they become second nature."* 🚀
+> *"The only way to learn algorithms is to practice them until they become second nature."*
