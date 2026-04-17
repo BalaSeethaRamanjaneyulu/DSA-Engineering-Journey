@@ -1,10 +1,10 @@
-# 🔗 Linked List Concepts & Patterns
+# Linked List Concepts and Patterns
 
 > "A Linked List is a linear data structure where elements are not stored at contiguous memory locations. Instead, elements are linked using pointers."
 
 ---
 
-## 🏗️ Core Structure
+## Core Structure
 
 ### Singly Linked List
 ```cpp
@@ -25,7 +25,7 @@ struct ListNode {
 
 ---
 
-## 📋 Problem Set & Progress
+## Problem Set and Progress
 
 | Problem | Difficulty | Key Pattern | Solutions |
 | :--- | :--- | :--- | :--- |
@@ -33,12 +33,12 @@ struct ListNode {
 
 ---
 
-## 💡 Essential Patterns
+## Essential Patterns
 
 ### 1. The Three-Pointer Technique
 Used for in-place reversal. Maintain `prev`, `curr`, and `next_temp`.
 
-### 2. Fast & Slow Pointers (Tortoise & Hare)
+### 2. Fast and Slow Pointers (Tortoise and Hare)
 - **Middle of List**: Slow moves 1 step, Fast moves 2 steps.
 - **Cycle Detection**: If Fast caught up to Slow, a cycle exists.
 - **K-th node from end**: Move Fast $K$ steps ahead, then move both at same speed.
@@ -48,4 +48,4 @@ Extremely useful for problems involving creating a new list or deleting nodes (h
 
 ---
 
-> *"The beauty of Linked Lists lies in their dynamic nature, allowing for constant-time insertions and deletions if the position is known."* 🚀
+> *"The beauty of Linked Lists lies in their dynamic nature, allowing for constant-time insertions and deletions if the position is known."*
