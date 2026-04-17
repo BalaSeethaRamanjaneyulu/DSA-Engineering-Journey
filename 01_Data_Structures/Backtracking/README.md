@@ -1,10 +1,10 @@
-# ⏪ Backtracking Concepts & Patterns
+# Backtracking Concepts and Patterns
 
 > "Backtracking is an algorithmic technique that considers searching in every possible combination in order to solve a computational problem."
 
 ---
 
-## 🏗️ Core Backtracking Template
+## Core Backtracking Template
 
 Every backtracking problem follows a similar logical structure:
 
@@ -34,7 +34,7 @@ void backtrack(state, result, path) {
 
 ---
 
-## 📋 Problem Set & Progress
+## Problem Set and Progress
 
 | Problem | Difficulty | Key Pattern | Solutions |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ void backtrack(state, result, path) {
 
 ---
 
-## 🧮 Complexity Cheat Sheet
+## Complexity Cheat Sheet
 
 *   **Subsets**: $O(N \cdot 2^N)$
 *   **Permutations**: $O(N \cdot N!)$
@@ -57,7 +57,7 @@ void backtrack(state, result, path) {
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 1.  **State Management**: Always ensure you restore the state after a recursive call.
 2.  **Pruning**: Identify conditions early to stop exploring invalid branches (e.g., if sum > target).
@@ -66,4 +66,4 @@ void backtrack(state, result, path) {
 
 ---
 
-> *"The art of backtracking is knowing when to stop looking."* 🚀
+> *"The art of backtracking is knowing when to stop looking."*
