@@ -30,6 +30,8 @@ struct ListNode {
 | Problem | Difficulty | Key Pattern | Solutions |
 | :--- | :--- | :--- | :--- |
 | **LC #206: Reverse Linked List** | Easy | Three Pointers (Iterative) | [C++](LC_206_Reverse_Linked_List.cpp), [Java](LC_206_Reverse_Linked_List.java), [Python](LC_206_Reverse_Linked_List.py) |
+| **LC #141: Linked List Cycle** | Easy | Fast & Slow Pointers | [C++](LC_141_Linked_List_Cycle.cpp), [Java](LC_141_Linked_List_Cycle.java), [Python](LC_141_Linked_List_Cycle.py) |
+| **LC #021: Merge Two Sorted Lists**| Easy | Dummy Node Technique | [C++](LC_021_Merge_Two_Sorted_Lists.cpp), [Java](LC_021_Merge_Two_Sorted_Lists.java), [Python](LC_021_Merge_Two_Sorted_Lists.py) |
 
 ---
 
