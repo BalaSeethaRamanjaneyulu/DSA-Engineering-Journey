@@ -31,6 +31,8 @@ graph BT
 | :--- | :--- | :--- | :--- |
 | **LC #020: Valid Parentheses** | Easy | LIFO Balancing | [C++](LC_020_Valid_Parentheses.cpp), [Java](LC_020_Valid_Parentheses.java), [Python](LC_020_Valid_Parentheses.py) |
 | **LC #155: Min Stack** | Medium | State Persistence | [C++](LC_155_Min_Stack.cpp), [Java](LC_155_Min_Stack.java), [Python](LC_155_Min_Stack.py) |
+| **LC #150: Evaluate RPN** | Medium | Postfix Evaluation | [C++](LC_150_Evaluate_Reverse_Polish_Notation.cpp), [Java](LC_150_Evaluate_Reverse_Polish_Notation.java), [Python](LC_150_Evaluate_Reverse_Polish_Notation.py) |
+| **LC #739: Daily Temperatures** | Medium | Monotonic Stack | [C++](LC_739_Daily_Temperatures.cpp), [Java](LC_739_Daily_Temperatures.java), [Python](LC_739_Daily_Temperatures.py) |
 
 ---
 
