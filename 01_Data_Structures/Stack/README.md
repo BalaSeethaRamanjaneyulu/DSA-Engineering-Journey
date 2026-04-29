@@ -33,6 +33,8 @@ graph BT
 | **LC #155: Min Stack** | Medium | State Persistence | [C++](LC_155_Min_Stack.cpp), [Java](LC_155_Min_Stack.java), [Python](LC_155_Min_Stack.py) |
 | **LC #150: Evaluate RPN** | Medium | Postfix Evaluation | [C++](LC_150_Evaluate_Reverse_Polish_Notation.cpp), [Java](LC_150_Evaluate_Reverse_Polish_Notation.java), [Python](LC_150_Evaluate_Reverse_Polish_Notation.py) |
 | **LC #739: Daily Temperatures** | Medium | Monotonic Stack | [C++](LC_739_Daily_Temperatures.cpp), [Java](LC_739_Daily_Temperatures.java), [Python](LC_739_Daily_Temperatures.py) |
+| **LC #853: Car Fleet** | Medium | Sorting + Stack | [C++](LC_853_Car_Fleet.cpp), [Java](LC_853_Car_Fleet.java), [Python](LC_853_Car_Fleet.py) |
+| **LC #084: Largest Rectangle in Histogram** | Hard | Monotonic Increasing | [C++](LC_084_Largest_Rectangle_in_Histogram.cpp), [Java](LC_084_Largest_Rectangle_in_Histogram.java), [Python](LC_084_Largest_Rectangle_in_Histogram.py) |
 
 ---
 
